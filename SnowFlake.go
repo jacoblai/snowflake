@@ -1,4 +1,4 @@
-package filecore
+package snowflake
 
 import (
 	"errors"
